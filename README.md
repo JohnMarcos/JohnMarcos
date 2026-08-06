@@ -207,12 +207,6 @@ My background combines **engineering, business, project management, software dev
 
 ---
 
-## 📊 GitHub
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=fubenow&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm currently interested in opportunities where I can contribute as a:
@@ -221,7 +215,6 @@ I'm currently interested in opportunities where I can contribute as a:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Videla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-videla)
 [![X](https://img.shields.io/badge/X-@VidelaJohn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VidelaJohn)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-John_Videla-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18074076/john-videla)
 
 ---
 
